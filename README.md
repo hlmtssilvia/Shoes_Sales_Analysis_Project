@@ -1,5 +1,4 @@
 # Shoes_Sales_Analysis_Project
-# Shoes-Sales-Analysis-2025
 📊 Project Overview
 
     This project analyzes shoe sales data for the year 2025. It includes a dataset and an Excel dashboard designed to evaluate sales performance throughout the year.
