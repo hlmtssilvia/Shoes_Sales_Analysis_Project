@@ -5,17 +5,12 @@
 ______________________________________________________________________________________________________________________________________________
 🎯 Objectives:
 This project focuses on the following key objectives:
-  📈 Analyze revenue metrics:
-    -Total Revenue
-    -Average Revenue
-    -Month-over-Month (MoM) Revenue Growth
-  👟 Analyze product metrics:
-    -Total units sold
-    -Total transactions
-  📅 Understand monthly sales trends and revenue growth patterns
-  🏷️ Identify top-performing shoe brands and shoe types
-  🌍 Compare sales performance across different countries
-  📊 Build an interactive dashboard in Excel for visualization and insights
+📈 Evaluate revenue performance by analyzing revenue trends, growth patterns, and key revenue metrics over time.
+👟 Identify the primary revenue drivers by examining Units Sold, Transactions, and Average Revenue per Transaction.
+🏷️ Assess product performance to identify top-performing brands and product combinations contributing to revenue.
+🌍 Evaluate market performance across countries and sales channels to uncover regional growth opportunities.
+💡 Generate data-driven business recommendations to improve revenue performance based on key analytical insights.
+📊 Develop an interactive Excel dashboard to communicate findings and support business decision-making
 ______________________________________________________________________________________________________________________________________________
 📢 Navigate to the Dashboard:
   The Excel file (Shoes_Sales_Analytics.xlsx) contains multiple sheets, including raw data, pivot tables, and the final dashboard.
