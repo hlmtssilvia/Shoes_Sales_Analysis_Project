@@ -1,23 +1,28 @@
 # Shoes_Sales_Analysis_Project
-📊 Project Overview:
+📊 **Project Overview**
     This project analyzes shoe sales data for the year 2025.
-    The goal of this analysis is to understand overall sales performance, identify top-performing products, brands, and sales channels, as well as analyze trends across countries and time periods.
+    The goal of this analysis is to understand overall sales performance, 
+    evaluates sales dynamics, seasonal volatility, and regional market behaviors to support strategic business decision-making.
 ______________________________________________________________________________________________________________________________________________
-🎯 Objectives:
+🎯 **Objectives**
 This project focuses on the following key objectives:
-📈 Evaluate revenue performance by analyzing revenue trends, growth patterns, and key revenue metrics over time.
-👟 Identify the primary revenue drivers by examining Units Sold, Transactions, and Average Revenue per Transaction.
-🏷️ Assess product performance to identify top-performing brands and product combinations contributing to revenue.
-🌍 Evaluate market performance across countries and sales channels to uncover regional growth opportunities.
-💡 Generate data-driven business recommendations to improve revenue performance based on key analytical insights.
+📈 Evaluate revenue performance : 
+  Analyze monthly revenue trends, growth patterns, Month-over-Month (MoM) growth, and key revenue metrics over time
+👟 Identify the primary revenue drivers : 
+  Use regression analysis to examine the impact several factors on units sold.
+🏷️ Assess Product & Segment Performance :
+  Evaluate brand contributions, shoe types, color preferences, 
+  and top-selling priduct
+🌍 Evaluate Market Performance :
+ Uncover regional growth opportunities across countries (UAE, USA, India, etc.)
+ and sales channels (Retail Store, Mall, Online).
 📊 Develop an interactive Excel dashboard to communicate findings and support business decision-making
 ______________________________________________________________________________________________________________________________________________
-📢 Navigate to the Dashboard:
+📢 **Navigate to the Dashboard**
   The Excel file (Shoes_Sales_Analytics.xlsx) contains multiple sheets, including raw data, pivot tables, and the final dashboard.
-
 👉 The dashboard can be found in the sheet named **Dashboard**.
 ______________________________________________________________________________________________________________________________________________
-📁Dataset:
+📁**Dataset**
 -Source : Kaggle (https://www.kaggle.com/datasets/syedaeman2212/shoes-sales-dataset)
 -Data Description :
 The raw sales dataset includes various columns that typically represent the following:
@@ -32,7 +37,7 @@ The raw sales dataset includes various columns that typically represent the foll
 9. Units_Sold : Number of units sold per transaction 
 10. Revenue_USD : Total revenue generated from each transaction
 ______________________________________________________________________________________________________________________________________________
-🧰 Tools Used
+🧰 **Tools Used**
 Microsoft Excel :
   -Data Cleaning
   -Pivot Tables
@@ -40,13 +45,25 @@ Microsoft Excel :
   -Formulas (SUM,INDEX,MATCH,VLOOKUP,IF)
   -GitHub
 ______________________________________________________________________________________________________________________________________________
-⚙️ Data Process
+⚙️ **Data Process**
 -Import dataset into Ms.Excel
 -Identify missing and duplicate values
 -Created pivot tables to analysis
 -Built charts for visualization
 -Designed an interactive dashboard
 ______________________________________________________________________________________________________________________________________________
+🔍 **Key Analytical Findings**
+1. **Revenue Volatility & Seasonality**:
+  Revenue showed an overall upward trend with significant monthly fluctuations.
+  -**October** achieved the highest revenue performance This performance appears to have been driven by a combination of high transaction activity, increased sales volume, and a relatively high average revenue per transaction.
+  -**August** recorded the lowest total revenue and MoM growth, driven by declines across most key performance metrics, except for average revenue per product. This suggests that lower revenue performance was mainly associated with reduced sales volume and transaction activity.
+2. **Primary Revenue Drivers**:
+  Regression analysis shows that static attributes (brand, country, and channel) have minimal direct impact on sales variation. Therefore, changes in units sold are likely influenced by external factors such as promotional discounts, marketing campaigns, seasonal trends, and bundled offers.
+______________________________________________________________________________________________________________________________________________
+🎯 **Strategic Recommendations & Action Plans**
+The detailed strategic plan is provided at the end of the report.
+
+
 
 
 
