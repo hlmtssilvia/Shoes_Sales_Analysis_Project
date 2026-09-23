@@ -6,16 +6,25 @@
 ______________________________________________________________________________________________________________________________________________
 🎯 **Objectives**
 This project focuses on the following key objectives:
+
 📈 Evaluate revenue performance : 
+  
   Analyze monthly revenue trends, growth patterns, Month-over-Month (MoM) growth, and key revenue metrics over time
+
 👟 Identify the primary revenue drivers : 
+  
   Use regression analysis to examine the impact several factors on units sold.
+
 🏷️ Assess Product & Segment Performance :
+  
   Evaluate brand contributions, shoe types, color preferences, 
   and top-selling priduct
+
 🌍 Evaluate Market Performance :
+ 
  Uncover regional growth opportunities across countries (UAE, USA, India, etc.)
  and sales channels (Retail Store, Mall, Online).
+
 📊 Develop an interactive Excel dashboard to communicate findings and support business decision-making
 ______________________________________________________________________________________________________________________________________________
 📢 **Navigate to the Dashboard**
